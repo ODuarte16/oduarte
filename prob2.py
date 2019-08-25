@@ -20,6 +20,6 @@ def solution(my_string):
 
 
 if __name__ == '__main__':
-    my_string = randomString() #string to fuck with
+    my_string = randomString()
     print(my_string)
     print(solution(my_string))
